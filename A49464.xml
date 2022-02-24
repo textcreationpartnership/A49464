@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before His Majesty at Whitehall March 27th 1664 by ... B. Lord Bishop of Lincoln.</title>
+            <title>Sermons. Selections</title>
+            <author>Laney, Benjamin, 1591-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49464</idno>
+            <idno type="STC">Wing L348</idno>
+            <idno type="STC">ESTC R17615</idno>
+            <idno type="EEBO-CITATION">12866465</idno>
+            <idno type="OCLC">ocm 12866465</idno>
+            <idno type="VID">94738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 985:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before His Majesty at Whitehall March 27th 1664 by ... B. Lord Bishop of Lincoln.</title>
+                  <title>Sermons. Selections</title>
+                  <author>Laney, Benjamin, 1591-1675.</author>
+               </titleStmt>
+               <extent>39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Garthwait ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Errata: p. [1]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94738:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before His Majeſty AT WHITEHALL <hi>March</hi> 27<hi rend="sup">th</hi> 1664.</p>
+            <p>BY The Right Reverend Father in God <hi>B.</hi> Lord Biſhop of <hi>Lincoln.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Timothy Garthwait,</hi> at the Kings-Head in S. <hi>Paul</hi>'s Church-yard, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:94738:2"/>
+            <pb n="3" facs="tcp:94738:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>S<hi rend="sup">t</hi> MARC. 4.24.</hi>
+               </bibl>
+               <q>—Take heed what you hear.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>O take heed is always good, but moſt neceſſary when danger is leaſt ſuſpected; we have therefore more need to look to our hear<g ref="char:EOLhyphen"/>ing, becauſe of all other things we may think that hath leaſt need of it. If it had been a <hi>Caveat</hi> upon the Tongue, Take heed what you ſay; there is reaſon enough for that; <hi>for the tongue is a world of iniquity,</hi>
+               <note place="margin">Jam. 3.6.</note> 
+               <hi>it defileth the whole body, and ſetteth on fire the courſe of Nature.</hi> But for hearing, that ſeems a harm<g ref="char:EOLhyphen"/>leſs innocent thing, meerly paſſive, no man the worſe for it: And this makes us ſit down ſecurely to hear any thing: But <hi>take heed;</hi>
+               <pb n="4" facs="tcp:94738:3"/>Hearing is no ſuch harmleſs thing: Though hearing ill, be not doing ill, yet at length it may bring us to it; it is a door to let it in upon us. We are all ſet in the midſt of Temptations and Enemies, and cannot be ſafe unleſs we have a watch and guard upon the paſſages.</p>
+            <p>As <hi>David,</hi> conſidering the miſchiefs that came by intemperate and unadvis'd ſpeaking, wiſely reſolv'd to ſet a watch at the door of his lips; <hi>Dixi, Cuſtodiam; I ſaid, I will take heed to my ways, that I offend not with my tongue:</hi> So another guard will be as neceſſa<g ref="char:EOLhyphen"/>ry at the ear, that nothing go in or out, in at the ear, or out at the mouth, that may betray us to our Enemies. If we look not to our ears, they will ſoon become guilty of the corruptions of the heart; as when we hear the flatterer it corrupts our judgment of our ſelves; the tale-bearer or ſlanderer, it cor<g ref="char:EOLhyphen"/>rupts our judgment of others. If we heark<g ref="char:EOLhyphen"/>en to profane, filthy, atheiſtical communica<g ref="char:EOLhyphen"/>tion, it poiſons the whole man; for <hi>evil words corrupt good manners.</hi> Thus the ear by letting in, may prove as ill as the tongue by letting out, a world of iniquity too. A lit<g ref="char:EOLhyphen"/>tle care here will prevent a great deal of miſ<g ref="char:EOLhyphen"/>chief;
+<pb n="5" facs="tcp:94738:3"/>take it at large; for it is good for all Perſons, for all Places, for all Times. But the <hi>Caveat</hi> of the Text comes neerer to us; it follows us to Church, where we think our ſelves out of all danger; and yet nearer to the very buſineſs we come about, the hearing of Gods Word; an imployment ſo ſafe from danger, that we think no care is to be taken, unleſs it be to get a place to hear in: For concerning this hearing is the advice given upon occaſion of the Parable of the Sower, that went before, wherein our Saviour him<g ref="char:EOLhyphen"/>ſelf interprets the Seed to be God's Word, and the Soil in which it was ſown to be the Hearers. Of four ſeveral ſorts, but one came to good. It is a great odds, and yet I wiſh it were not often greater; three to one of the Hearers miſcarried, and the fault was on<g ref="char:EOLhyphen"/>ly in the hearing. It is therefore very ſeaſo<g ref="char:EOLhyphen"/>nable for us that are come to hear, and eſpe<g ref="char:EOLhyphen"/>cially at this time of <hi>Lent,</hi> when there is more of this Seed ſown then at any other time of the year. Where the loſs will be more, the care ſhould be greater. <hi>Take heed what you hear.</hi> This is the Argument whereof with Gods bleſſing we are now to treat.</p>
+            <p>
+               <pb n="6" facs="tcp:94738:4" rendition="simple:additions"/>COncerning our care about hearing, it will not be amiſs to beſtow the firſt part of it about the meaning of the Words. S<hi rend="sup">t</hi> 
+               <hi>Luke</hi> relates the ſame paſſage with ſome difference.</p>
+            <p>
+               <hi>Take heed</hi> how <hi>you hear.</hi> That which is <hi>quid</hi> here, is <hi>quomodo</hi> there. The diff<gap reason="illegible" resp="#PDCC" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> will be, Whether S<hi rend="sup">t</hi> 
+               <hi>Mark</hi> ſhould expound S<hi rend="sup">t</hi> 
+               <hi>Luke,</hi> or S<hi rend="sup">t</hi> 
+               <hi>Luke</hi> S<hi rend="sup">t</hi> 
+               <hi>Mark?</hi> for in relating matter of fact, the truth muſt be one, though the words differ: And yet the words do not ſo differ, but that in Scripture the one is ſometimes taken for the other, <hi>quid</hi> for <hi>quo<g ref="char:EOLhyphen"/>modo,</hi> and <hi>quomodo</hi> for <hi>quid:</hi> Gen. 2.19. <hi>God brought all the beaſts of the field and fouls of the air to</hi> Adam, <hi>to ſee what he would call them. What,</hi> that is <hi>How;</hi> there is <hi>quid</hi> for <hi>quomodo.</hi> On the other ſide, <hi>Luk.</hi> 10.26. we have <hi>quo<g ref="char:EOLhyphen"/>modo</hi> for <hi>quid: What is written in the Law? how readeſt thou? How,</hi> that is, <hi>What readeſt thou?</hi>
+            </p>
+            <p>Though this promiſcuous uſe of the phra<g ref="char:EOLhyphen"/>ſes will ſerve to reconcile the Evangeliſts, that they might mean the ſame thing in diffe<g ref="char:EOLhyphen"/>rent words; yet will it not ſerve to find out which that meaning ſhould be. It will be a
+<pb n="7" facs="tcp:94738:4"/>ſafe courſe therefore to take both in; for though <hi>vi verborum</hi> we can not, yet, which is lawful in a Preacher, <hi>vi conſequentiae</hi> we may; for they are ſo cloſe woven together, that one cannot well go without the other. It will be to no purpoſe how we hear, unleſs we hear what we ſhould: and it will be to as lit<g ref="char:EOLhyphen"/>tle to hear what we ſhould, if we care not how we hear it. If we take them both in, they will compleat our care in the two parts of it, and alſo make two Points of the Ser<g ref="char:EOLhyphen"/>mon, What we hear, and How we hear.</p>
+            <p n="1">1. <hi>Take heed what</hi>—</p>
+            <p>But how can that be given in caution to the Hearer which is not in his power? for it is wholly at the choice of the Speaker what we hear: When the Ear is open it muſt hear what is ſpoken, whether it be good or bad. True, if the Precept had been gi<g ref="char:EOLhyphen"/>ven to the Ear, ſo it muſt be; but it is given to the Hearer, to him that bath an <hi>Imperium</hi> and ruling of that and all the other ſenſes. If the reaſon or will ſhall command, the Eare will open or ſhut, like or diſlike. It is not ſimple hearing, the Senſe it ſelf is not capable of advice, but mix'd.<note place="margin">Heb. 4.2.</note> St. <hi>Paul</hi> gives the reaſon why the Goſpel being preach'd to the
+<pb n="8" facs="tcp:94738:5"/>Jews did not profit them, becauſe not mix'd with Faith in them that heard it. It is not ſim<g ref="char:EOLhyphen"/>ple hearing, but mix'd with a more noble part of the Soul that guides it. And ſo to take heed what you hear, is in effect to take heed what Faith and Credit you give to that you hear; for ſo it follows in the Verſe, <hi>With what meaſure you mete in ſhall be meaſur'd to you,</hi> the benefit will anſwer to the care, meaſure for meaſure. But what different meaſure can there be of that which differs not? Gods Word is from everlaſting unchangeable. <hi>The graſs may wither, and the flower thereof may fade away,</hi> ſaith St. <hi>Peter, but the word of the Lord endureth for ever;</hi> and this is the word which <hi>by the Goſpel is preached unto you,</hi>
+               <note place="margin">1 Pet. 1. ult.</note> 1 Pet. 1. ult.</p>
+            <p>Though Gods word be one in it ſelf, yet that one hath been made known to the world in different wayes and Degrees, and ſo re<g ref="char:EOLhyphen"/>quires a hearing proportionable to them. <hi>God who at ſundry times,</hi>
+               <note place="margin">Heb. 1.2.</note> 
+               <hi>and in divers man<g ref="char:EOLhyphen"/>ners ſpake in times paſt to the Fathers by the Prophets, hath in theſe laſt dayes ſpoken by his Son.</hi> And likewiſe that which the Son ſpake in thoſe laſt days, the days of the Goſpel, was in divers manners. For firſt he ſpake by him<g ref="char:EOLhyphen"/>ſelf
+<pb n="9" facs="tcp:94738:5" rendition="simple:additions"/>in perſon,<note place="margin">Luke 4.18.</note> 
+               <hi>The ſpirit of the Lord is upon me, becauſe he hath anointed me to preach the Goſpel to the poor.</hi> That which he preached was certainly Gods word. And when he left the world to go to his Father, he ſent the Holy Ghoſt from Heaven, who in the mouth of the Apoſtles preached the ſame Goſpel; for thoſe holy men ſpake not by the will of man, but as they were mov'd by the Holy Ghoſt.<note place="margin">2 Pet. 1.24.</note> And therefore this alſo was truly the word of God. And when the Church was thus found<g ref="char:EOLhyphen"/>ed by the preaching of the Holy Ghoſt, for the propagation of it to all times, after, it pleaſed God to give it in Writing, in a Scri<g ref="char:EOLhyphen"/>pture, and that by inſpiration of the ſame Spirit which before preached it. So as now we need not aſcend to Heaven to fetch Chriſt down, nor the Holy Ghoſt, as ſome pretend to do to know Gods will, but to receive it onely from that Scripture. Thus far we have the Word of God in Proper, <hi>(i. e.)</hi> immedi<g ref="char:EOLhyphen"/>ately out of the mouth of God, and our hearing muſt be abſolute for the matter, we muſt ſay with <hi>Samuel, Speak Lord for thy ſer<g ref="char:EOLhyphen"/>vant heareth.</hi>
+            </p>
+            <p>But when it pleaſed God to commit the diſpenſing of that word to the Paſtors of the
+<pb n="10" facs="tcp:94738:6"/>Church, for the perfecting of the Saints, for the work of the Miniſtry, for the edifying of the body of Chriſt, <hi>Epheſ.</hi> 4.12. Now the word of God was come into the hands of men ſubject to infirmities and error, who may both deceive themſelves and others. And here our Saviours advice comes in ſeaſon, <hi>Take heed what you hear.</hi> Before, Gods word was in the Original, but here onely in the Tranſcript, or Copy; and ſome Copyings are more happy then others, and come nearer the Original, and therefore not all of the ſame va<g ref="char:EOLhyphen"/>lue and eſteem. All Preachers are not to be heard alike, nor all Sermons. The word of God in them is ſo the water of Life, that it often taſtes of the mineral, through which it runs, and hath a tincture from the earthen Veſſel that brings it, and therefore not to be receiv'd with that meaſure of truſt which belongs to the pure and proper word of God. For, take a Sermon at the beſt, the moſt you can make of it is, that it is Gods word onely in a qualified ſenſe, becauſe the Church in<g ref="char:EOLhyphen"/>tends it ſhould be ſo; and it is the preachers judgement and opinion that it is ſo; and poſ<g ref="char:EOLhyphen"/>ſibly it may be ſo indeed. But then becauſe poſſibly it may not be ſo, we had need <hi>take heed what we hear.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:94738:6"/>We learn from St. <hi>Paul</hi> that it was more than poſſible, it was truly ſo then; for he warns <hi>Timothy</hi> of Preachers that will ſtrive about words to no purpoſe, but to the ſub<g ref="char:EOLhyphen"/>verſion of the hearers, 2 <hi>Tim.</hi> 2.14. And ver. 16. <hi>By prophane and vain bablings do increaſe to more ungodlineſs.</hi> And v. 17. <hi>Their word will eat as doth a Canker, or a Gangrain;</hi> for ſo the Greek word is; and that's a dangerous Diſeaſe, and by all means poſſible to be a<g ref="char:EOLhyphen"/>voided, and eſpecially to be taken heed of. Thus it was in the early times of the Church, we have reaſon them to look for worſe after, and ſo we of late times found it by ſad expe<g ref="char:EOLhyphen"/>rience: Not onely profane and vain bab<g ref="char:EOLhyphen"/>lings, but Sedition, Treaſon, Rebellion were dreſt up and appear'd in the likeneſs of Ser<g ref="char:EOLhyphen"/>mons. It is too plain, we have but too much need of caution to take heed.</p>
+            <p>But alas! what ſhould private men do? muſt they, or can they call all Preachers and Doctrines to account? The Scriptures indeed which are the undoubted Word of God would do it if well manag'd, but how can that be hoped from every hand? wherein wiſe, that is, learned men, are miſtaken, and from whence every Sect ſeeks Patronage, and
+<pb n="12" facs="tcp:94738:7"/>perſwades it ſelf to have it. What means is there then left by the help whereof we may take heed what we hear. Truly none that I know, but this ſtill, the Scriptures are the on<g ref="char:EOLhyphen"/>ly infallible rule.</p>
+            <p>But how! Not left looſe to the prejudices and fancies of every man; for then it will fall out, as with thoſe that look in a Glaſs, in which every one ſees his own face, though not anothers; the reaſon is becauſe he brings his face to the Glaſs, not becauſe it was there before. So every Sect ſees the face of his own Religion in the Scripture, not becauſe it was there before, but becauſe his ſtrong fancy and prejudice brought it thither; he thinks he ſees that in the Scripture, which in truth is onely in his own imagination.</p>
+            <p>But how then can we have any help from the Scriptures to take heed what we hear? Not as Gods word lies diffus'd through the whole body of them; but as prepar'd and fitted up in a ſummary and ſhort form of wholſom words by ſuch to whom the care of the Church is committed.</p>
+            <p>If any ſhall think this a humane invention derogatory to the ſufficiency of the Scri<g ref="char:EOLhyphen"/>ptures. Let him implead St. <hi>Paul</hi> firſt, who
+<pb n="13" facs="tcp:94738:7"/>made the ſame uſe of it, finding what miſ<g ref="char:EOLhyphen"/>chief falſe Teachers had done, charges <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> with the care of it, 2 <hi>Tim.</hi> 1.13. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Hold faſt the form of ſound words which thou haſt heard of me.</hi> This form he calls in the laſt verſe of the former Epi<g ref="char:EOLhyphen"/>ſtle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a depoſitum committed to his truſt, and for that very purpoſe that he might avoid profane and vain bablings, and oppoſitions of Science falſly ſo called; and that is plainly, that they might <hi>take heed what they hear.</hi>
+            </p>
+            <p>The ſame courſe was taken by the whole Church after conſidering how hard, or rather impoſſible it was for every one out of the Scriptures to work out to himſelf an aſſu<g ref="char:EOLhyphen"/>rance of the knowledge of as much as was neceſſary to ſalvation, and with that a con<g ref="char:EOLhyphen"/>ſent with the reſt of the faithful, who are commanded to ſpeak and think the ſame things, which cannot be done but in a certain form of words.<note place="margin">1 Cor. 1.10.</note> Such a form, if not the ſame with S. <hi>Paul</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was the Apoſtles Creed, the uſe whereof hath ever ſince continued in the Church to be a help to take heed what we believe.</p>
+            <p>The ſame courſe was of later times held by
+<pb n="14" facs="tcp:94738:8" rendition="simple:additions"/>divers particular National Churches, who weary with the inſolence and domineering of their Siſter at <hi>Rome,</hi> did <hi>ſuo jure uti,</hi> and pro<g ref="char:EOLhyphen"/>vide for themſelves, which fell out in a time when the world was filled with Controverſies and Diſputes of Religion. That the people might not be carried about with every wind of doctrine, that blew from all corners, it was their care, and wiſdom to compoſe a form of whole ſome words in their ſeveral Confeſ<g ref="char:EOLhyphen"/>ſions, to be a rule what to hear.</p>
+            <p>Now following our Saviours advice, you have reaſon to ask, With what meaſure of Faith are theſe confeſſions to be received; for, <hi>Quis custodi, &amp; ipſum custodem?</hi> What credit muſt be given to that which muſt be a rule how far we credit others? That we mi<g ref="char:EOLhyphen"/>ſtake not, They are not to be received with that faith which is due to Gods word, or any thing out of it as neceſſary to ſalvation; but with ſuch as wiſe men would give to the means of ſettling unity and conſent in mat<g ref="char:EOLhyphen"/>ters controverted, as the title of our Confeſ<g ref="char:EOLhyphen"/>ſion imports; that is, That they are Articles of Peace not Articles of Faith. They make no new Religion or new Faith.</p>
+            <p>This, by the way, gives an eaſie Anſwer
+<pb n="15" facs="tcp:94738:8"/>to the Papiſts hard Queſtion, as they think; <hi>Where was your Religion before</hi> Luther? <hi>Where was your Church before the</hi> 39. <hi>Articles?</hi> We do not date our Religion from thoſe Articles. The Church of <hi>England</hi> (I grant) is call'd ſo from their Confeſſion, but by an accidental denomination; <hi>i. e.</hi> It is that Church which for preſervation of unity and peace in it, in<g ref="char:EOLhyphen"/>joyns nothing to be taught or heard for God's Word which is repugnant to them in the particulars there mentioned. But for the eſſential denomination of our Faith, whereon Salvation depends, it is the Faith of God's Word, ſumm'd up in the ancient Catholick and Apoſtolick Forms; as is evident from our Conſtitutions and Practiſe. For when any is received as a Member into the Church by Baptiſm, the Laver of Regeneration, no other Faith is required but that which is com<g ref="char:EOLhyphen"/>priſed in the Apoſtles Creed. And when by a confeſſion of our Faith and Sins, we pre<g ref="char:EOLhyphen"/>pare to receive the other Sacrament of the Body and Blood of our Lord, our Faith is that according to the ancient <hi>Nicene</hi> Creed. And in the Office of Viſiting the Sick, the Abſolution (a Comfort at all times, and moſt of all when we give up our Souls into the
+<pb n="16" facs="tcp:94738:9"/>Hands of God) is not to be adminiſtred but to thoſe that make confeſſion as well of their Faith as of their Sins; and that Faith is only according to the Apoſtles Creed. Thus are we born, nouriſh'd, and diſſolv'd by the ſame Faith, according to the ancient Catholick and Apoſtolick Forms. A Faith of this age nei<g ref="char:EOLhyphen"/>ther ought they to reproach, nor we to be aſham'd of.</p>
+            <p>To return to our particular Church Con<g ref="char:EOLhyphen"/>feſſion; it hath another end and uſe; they are Articles of peace and conſent in certain Controverſies to inſtruct and help us to take heed what we hear.</p>
+            <p>But it will not be ſo taken by all; for the Churches Remedy is the Sectaries Diſeaſe, who complain, That by this means the liberty of the Spirit and of the Conſcience are penn'd up in thoſe Forms; and, which is a worſe miſchief, if it were true, a binding of God's Word, which ought to be free: But for that God's Word neither is nor can be bound. The Forms are no more but the gathering together ſome of thoſe Waters which flow all over the Scriptures, into a ſtream, to fit them for the eaſe and uſe of all. But they ſay, they take a better courſe to
+<pb n="17" facs="tcp:94738:9" rendition="simple:additions"/>fetch all from the Fountain. The Fountain indeed is purer; but I ſee no reaſon why the Water ſhould be purer in their Pitchers than in the Churches Stream, ſeeing both claim immediately to the ſame Fountain.</p>
+            <p>They ſay again, That theſe Forms are no better than ſnares, to hinder many a painful Preacher of the Goſpel. They would ſeem careful to unbind God's Word; but I ſee it is to ſet themſelves at liberty. As for pain<g ref="char:EOLhyphen"/>fulneſs in Preaching, if it be not to ſome good purpoſe, I ſhall not much reckon upon.</p>
+            <p>The Phariſees compaſſed Sea and Land,<note place="margin">Mat. 23.13.</note> but it was to make Phariſees, Proſelytes of their Faction, not of Religion.</p>
+            <p>Nay, but they preach the Goſpel. The Goſpel is a glorious Word; but what Goſ<g ref="char:EOLhyphen"/>pel? A Goſpel you may perhaps have enough of, and too much:<note place="margin">2 Tim. 3.1.</note> S. <hi>Paul</hi> informs <hi>Timothy</hi> of <hi>perilous times to come,</hi> when <hi>men will be lovers of their own ſelves, covetous, boaſters, proud, blaſphemers, without natural affection, truce-breakers, falſe accuſers, incon<g ref="char:EOLhyphen"/>tinent, fierce, deſpiſers of thoſe that are good, traytors, heady, high-minded.</hi>
+            </p>
+            <p>How think you comes it to paſs that there ſhall be ſuch a general Apoſtacy? was it
+<pb n="18" facs="tcp:94738:10" rendition="simple:additions"/>not for want of preaching? They had no Sermons, or perhaps no great affection for them; they were ſome cold hearers, that were content with one Sermon a day. No, that was not the matter; if we read on to the next Chapter we ſhall find they had hearing enough; for they were ſuch as heap'd to themſelves Teachers, and ſo had heaps of Ser<g ref="char:EOLhyphen"/>mons, and affection for them too; for they had itching ears. What was it then? They could not away with ſound Doctrine, but would have Teachers after their own luſts; they had the Goſpel in plenty, but it was <hi>Evangelium</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; after their own luſts, not of <hi>ſound Doctrine.</hi>
+            </p>
+            <p>But what is ſound Doctrine? S. <hi>Paul</hi> doth not ſay here, becauſe a little before he had given <hi>Timothy</hi> a form of it, Keep the Form of ſound words which thou haſt heard from me; and becauſe their Goſpel did not agree to that, he chargeth him to avoid it. So ſhould we do too with ſuch a Goſpel as will not ſtand within our form of wholeſom words: Or if it be ſuch as was preached here for twenty years together, we have little rea<g ref="char:EOLhyphen"/>ſon to be fond of it, or any pains that is taken about it. If they will not hean the
+<pb n="19" facs="tcp:94738:10" rendition="simple:additions"/>Churches Goſpel, what reaſon hath the Church to hear theirs?</p>
+            <p>To end my firſt point, If it was wiſdom in St. <hi>Paul</hi> to commend a form of words, and in the whole Catholick Church to uſe one; if the ſame was practis'd by every reformed Church, and all that people might with peace and ſecurity know what to hear: I do not underſtand what wiſdom it can be to lay all common again for any mans pleaſure; for this is to legitimate Schiſm, and entail divi<g ref="char:EOLhyphen"/>ſion to the Church for ever. As you love your ſelves, your quiet, and look to receive benefit by the immortal ſeed of Gods Word, if you would be good Chriſtians, that is, be adviſed by Chriſt, and in that way which all Chriſtians have uſed, to <hi>Take heed what you hear.</hi>
+            </p>
+            <p>We come now to the ſecond point of our care, <hi>Take heed how you hear,</hi> and this no leſs neceſſary then the former; for when we have provided for the Matter what we hear, we may yet offend in the Manner how; and ſo loſe the benefit of both.</p>
+            <p>That which is here ſet down in proper words, is by our Saviour illuſtrated in a Simi<g ref="char:EOLhyphen"/>litude, <hi>ver.</hi> 21. <hi>Is a candle brought to be put
+<pb n="20" facs="tcp:94738:11"/>under a buſhel, or under a bed, and not to be ſet on a Candleſtick?</hi> that is, and ſo St. <hi>Luke</hi> ex<g ref="char:EOLhyphen"/>preſſes it, A candle is not brought to be put under a Buſhel, but to be ſet on a Candle<g ref="char:EOLhyphen"/>ſtick. This makes two points in the manner of our hearing, one negative, that we do not ſo hear Gods Word that we put it under a Buſhel, another affirmative, that we ſet it on a Candleſtick.</p>
+            <p>For the firſt, Gods Word is a light, we can do nothing more contrary to light then to hide it, to put it under a Buſhel, <hi>i. e.</hi> to do any thing that will intercept the light and benefit of it. Now this may be done ſeveral wayes.</p>
+            <p>Firſt, By perverting the proper end and uſe of hearing. Hearing Gods word is cer<g ref="char:EOLhyphen"/>tainly a good point of Religion; for it is a duty commanded, <hi>ver.</hi> 23. <hi>If any man have ears to hear let him hear;</hi> yet if he hear as he ſhould, he muſt not miſtake one kinde of du<g ref="char:EOLhyphen"/>ty for another. Duties are of divers kindes, ſome eſſential parts of Religion, ſome inſtru<g ref="char:EOLhyphen"/>mental, and ſome both. The two chief du<g ref="char:EOLhyphen"/>ties of this time, faſting and hearing, are in<g ref="char:EOLhyphen"/>ſtrumental onely. That Faſting is ſo, we learn from St. <hi>Paul. The Kingdom of heaven is not meat and drink,</hi> i. e. conſiſts not in it;
+<pb n="21" facs="tcp:94738:11" rendition="simple:additions"/>yet if well uſed is a help to it. <hi>Inſtrumenti vis in uſu conſiſtit.</hi> If faſting attains not the end and uſe of it, it is good for nothing, not to be reckon'd in the order of Religious duties. So hearing Gods Word, if it work no amendment in us, is but a Cypher alone that ſtands for nothing, no better then a Can<g ref="char:EOLhyphen"/>dle under a Buſhel.</p>
+            <p>When hearing is not it ſelf, doth not the own duty, we are extreamly miſtaken if we make it ſerve for any other. Hearing doth edifie, help to the building, but as an Inſtru<g ref="char:EOLhyphen"/>ment, not as Stone and Timber, the eſſential parts of it. The Ax and the Hammer, the Square and the Level, are inſtruments with<g ref="char:EOLhyphen"/>out which there can be no building: but we would think him mad that ſhould therefore lay them in the Walls or the Foundation: They are as much guilty of folly, who make their ordinary worſhip of God to be nothing but to go hear the Sermon; yea, and the extraordinary, a ſolemn Faſt and Hu<g ref="char:EOLhyphen"/>miliation to hear a Sermon; A publick Thankſgiving to hear a Sermon, and that is all. If any buſineſs extraordinary fall out, here<g ref="char:EOLhyphen"/>unto we think fit by our Devotion to ingage Gods bleſſing and protection, all we do for
+<pb n="22" facs="tcp:94738:12"/>his ſake we ſit and hear a Sermon. If the Ser<g ref="char:EOLhyphen"/>mon doth the work of an inſtrument it is well, to fit and enable us to perform thoſe duties, it ſelf is neither ſtick nor ſtone in the Building. We muſt not think all is done when the Sermon is done.</p>
+            <p>Inſtruments are of an indifferent nature, may be well or ill uſed; ſo are not eſſen<g ref="char:EOLhyphen"/>tials, as Faith, Repentance, and Charity, are conſtantly the ſame. Faſting, I ſaid was an inſtrumental duty, and ſo was as well us'd for ſtrife and debate, as for Humiliation and Repentance. We may remember many of thoſe fighting Faſts.<note place="margin">Pſal. 74.</note> He that hew'd Timber before out of the thick Trees was known to bring it to an excellent work; but now they break down all the carved works therof with Axes and Hammers, that is, with the ſame tools that built it. As Sermons are inſtru<g ref="char:EOLhyphen"/>ments to build up, at another time they pull down as faſt. It is therefore very neceſſary we take heed how we hear them.</p>
+            <p>As we muſt not miſtake in the kinde of the duty, an inſtrumental for an eſſential; ſo nor in the kinde of the Inſtrument: for ſome are natural, as the eye is of ſeeing, the ear of hearing; theſe naturally do their work. Others
+<pb n="23" facs="tcp:94738:12"/>poſitive of Divine Inſtitution, which have no vertue or power but from that; and ſuch are the Sacraments. I confeſs I never heard any ſay, that hearing of Gods Word was a Sacra<g ref="char:EOLhyphen"/>ment of Faith: yet I know there is more vertue aſcrib'd to it then natural, and by ſome more then Sacramental; for no Sacrament they think effectual without a Sermon.</p>
+            <p>If there be a miſtake in the manner and kinde of operation in the Inſtrument, it will prove another putting the Candle under a Buſhel. I hope you will not think it a fruitleſs curioſity to enquire a little farther into it.</p>
+            <p>Hearing and Preaching both, for they always go together, are ſo proper to the Goſpel, that by them it is diſtinguiſhed from the Law; for St. <hi>Paul</hi> arguing for the Chriſtian Faith againſt the Jewiſh, calls it the Hearing of Faith, <hi>Gal.</hi> 3.2. <hi>He that miniſtreth to the ſpi<g ref="char:EOLhyphen"/>rit, and worketh miracles among you, doth he it by the works of the Law, or by the hearing of Faith?</hi> The like propriety in the Goſpel hath preaching; for whatſoever way the wiſdom of the world may take, <hi>It pleaſed God by the fooliſhneſs of preaching to ſave them that be<g ref="char:EOLhyphen"/>lieve,</hi> 1 <hi>Cor.</hi> 1.21. And thus by way of di<g ref="char:EOLhyphen"/>ſtinction the Goſpel is call'd the miniſtration
+<pb n="24" facs="tcp:94738:13"/>of the Spirit, becauſe preached by inſpirati<g ref="char:EOLhyphen"/>on of the Spirit, and the Law the miniſtration of the Letter, becauſe given in writing. 2 <hi>Cor.</hi> 3.6. <hi>Who hath made us Miniſters of the New Teſtament,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>not of the Letter, but of the Spirit.</hi>
+            </p>
+            <p>But was there then no hearing nor preach<g ref="char:EOLhyphen"/>ing under the Law? That cannot be ſaid nei<g ref="char:EOLhyphen"/>ther. <hi>They have Moſes and the Prophets,</hi> ſaith <hi>Abraham</hi> to <hi>Dives, let them hear them.</hi> And the Prieſt's lips could not preſerve know<g ref="char:EOLhyphen"/>ledge unleſs it were received from his mouth by hearing. It was commonly practiſed in the Synagogues after the reading of the Law in the time of the Apoſtles to exhort the peo<g ref="char:EOLhyphen"/>ple. When S. <hi>Paul</hi> and his company went into the Synagogue at <hi>Antioch</hi> in <hi>Piſidia,</hi> they were deſired to give the people a word of ex<g ref="char:EOLhyphen"/>hortation.<note place="margin">
+                  <hi>Acts</hi> 13.15.</note>
+            </p>
+            <p>How then comes it to paſs that by hearing and preaching, the Chriſtian Religion is di<g ref="char:EOLhyphen"/>ſtinguiſhed from the Jews, which are common to both? And why is the Law call'd the mi<g ref="char:EOLhyphen"/>niſtration of the Letter, by way of diſtinction, ſeeing the Goſpel is written as well as the Law?</p>
+            <p>'Tis plain that theſe things are ſpoken, not
+<pb n="25" facs="tcp:94738:13"/>ſimply, and univerſally of either, but in re<g ref="char:EOLhyphen"/>lation to their beginning and firſt publiſhing to the world. Becauſe the Law was then gi<g ref="char:EOLhyphen"/>ven by writing, though afterwards preached; it is called the miniſtration of the Letter: So the Goſpel, though afterwards written, yet becauſe it was then only preached by revela<g ref="char:EOLhyphen"/>tion of the Holy Ghoſt, it is call'd the mini<g ref="char:EOLhyphen"/>ſtration of the Spirit.</p>
+            <p>That likewiſe which S. <hi>Paul</hi> ſpeaks of the hearing of Faith, and of ſaving men by the fooliſhneſs of preaching hath a peculiar relation to Chriſtianity in the manner of foun<g ref="char:EOLhyphen"/>ding it at firſt. For certain'y Preaching in it ſelf was not in the eye of humane wiſdom a fooliſh way to perſwade, but ſuch as the wiſeſt of them all uſed: when they would per<g ref="char:EOLhyphen"/>ſwade the people any thing, they did it by o<g ref="char:EOLhyphen"/>rations and ſpeeches, which are of the ſame kinde with preaching.</p>
+            <p>But if we look at that preaching by which the Chriſtian Religion was at firſt introduced, it had in the eye of humane wiſdom ſomthing of folly in it. For to introduce a Law or Religion to any people theſe two things a<g ref="char:EOLhyphen"/>mong others are neceſſary.</p>
+            <p>That they give it in Writing, that they
+<pb n="26" facs="tcp:94738:14"/>might more certainly know what they had to do, and that it be by ſuch as have authority and power. And this way God himſelf took in giving the Jews a Law: for firſt, he wrote it with his own fingers, and then publiſhed it by the Miniſtry of <hi>Moſes</hi> who was their lead<g ref="char:EOLhyphen"/>er and governour.</p>
+            <p>But for the introduction of the Goſpel, it pleaſed God to take a far different courſe, that is, to commit all to the preaching of a few poor deſpicable Fiſher-men, who were only private men, of no authority; and of whoſe Goſpel they had no knowledge, but from what was to be taken from their mouths. And that when firſt preached, was by ſome eſteemed no better then a diſtemper, yea, plain drunkenneſs: yet, thus it pleaſed God to put the words of eternal life into theſe earthen v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſels, and by that means to make his own power known, and by that folly to con<g ref="char:EOLhyphen"/>found the wiſdom of the world.</p>
+            <p>But for our preaching, though it may have many times too good a title to fooliſhneſs in preaching, yet not to the fooliſhneſſe of preaching: for, thoſe obſtacles remov'd, it is the ordinary way by which all knowledge, humane as well as divine, is communicated:
+<pb n="27" facs="tcp:94738:14"/>My meaning is, that hearing now is to be look<g ref="char:EOLhyphen"/>ed upon as the common natural inſtrument to receive inſtruction, and therefore no benefit to be reckon'd on from it, but what is com<g ref="char:EOLhyphen"/>mon to all other learning and knowledge, that is, by ſerious ſtudying, and diligently pondering the things we hear; for if we truſt to any ſecret, ſacramental, myſtical vertue in hearing: that profit we ſhould get by the Word we may loſe by the Hearing. Therefore <hi>take heed</hi> how <hi>you hear;</hi> for this is a ſecond way of putting Gods word under a Buſhel.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> There is another way, which in part at leaſt puts under the Buſhel too, when we confine it to the Sermon: whereas that is of little uſe, if Gods word be not in it; they ſay, The word is of as little, if it be not in a Sermon, which is a derogation to the goodneſs and bounty of Almighty God, who hath diſpenſed his Di<g ref="char:EOLhyphen"/>vine Truth ſo many wayes beſides: as,</p>
+            <p>Firſt by Reading; for though when Gods Word was preached onely, it could be onely heard; yet when it was a Scripture, it might be known, as all other Writings, by reading alſo: for this reaſon <hi>S. Paul</hi> ſets <hi>Timothy</hi> to his Book,<note place="margin">1 Tim. 4.13.</note> 
+               <hi>Till I come give attendance to read<g ref="char:EOLhyphen"/>ing; Search the Scriptures, for therein you
+<pb n="28" facs="tcp:94738:15"/>think you have eternal life;</hi> and ſearch we can<g ref="char:EOLhyphen"/>not unleſs we read them, that by reading we may finde the way to eternal life: yea, though all were to be done by preaching, Reading is that too: <hi>For Moſes had in old time them that preached him, being read in the Synagogues eve<g ref="char:EOLhyphen"/>ry Sabbath-day,</hi> Acts 15.21.</p>
+            <p>Secondly, By writing, Gods Word works Faith in us, if S. <hi>John</hi> was not miſtaken when he ſaid,<note place="margin">1 Joh. 5.13.</note> 
+               <hi>Theſe things have I written unto you, that ye may know ye have eternal life, and that ye may believe in the name of the Son of God.</hi> Good wri<g ref="char:EOLhyphen"/>ters are in their kinde good Preachers. Why then ſhould any be ſcandalized at the Preach<g ref="char:EOLhyphen"/>er, that looks upon his Book where his Ser. mon is written. Indeed, if men now were to ſpeak as the Apoſtles did, as the Spirit gave them utterance, it were a great miſtake to look for him in a Book: But if we, as all muſt take Gods Word out of the Scripture; and every Preacher, if he be not too bold with God and his Auditors, that he may ſpeak from thence what is both true and ſeaſonable, prepares by writing that which he is to preach; the Sermon is the ſame in the Pulpit that it was in the ſtudy, and though the Preacher that looks in his Book be the worſe, the Sermon I am ſure is not.</p>
+            <p>
+               <pb n="29" facs="tcp:94738:15" rendition="simple:additions"/>We may receive the fruit of God's Word in the virtuous life and example of others; for this S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> calls the <hi>holding forth the Word of Life,</hi> Phil. 2.16. <hi>That ye may be blameleſs, the Sons of God, without rebuke, holding forth the Word of Life; i. e.</hi> it is viſi<g ref="char:EOLhyphen"/>ble and legible in all our actions and demea<g ref="char:EOLhyphen"/>nour. Thus a Man may be a Preacher of God's Word, though he be not in Orders: Yea, Women, that are forbidden to ſpeak in the Church, may thus convert their Husbands at home. <hi>Likewiſe,</hi>
+               <note place="margin">1 Pet. 1:</note> 
+               <hi>ye Wives be in ſubjection to your Husbands, that if any obey not the Word</hi> (that is, when it is preached) <hi>they alſo may without the Word be won by the converſa<g ref="char:EOLhyphen"/>tion of the Wife.</hi> So powerful and effectual is God's Word, that it works by example, though on the weakeſt Veſſels.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> There be divers ways of preaching in the more proper ſenſe, beſides the Sermon; for preaching is either publick or private, as we learn from S<hi rend="sup">t</hi> 
+               <hi>Paul, Acts</hi> 20.20. where he gives account to the Elders of <hi>Epheſus</hi> of himſelf, <hi>That he had taught them publickly, and from houſe to houſe.</hi> Sure he did not make a formal Sermon in every houſe he came into, but as occaſion and opportunity
+<pb n="30" facs="tcp:94738:16" rendition="simple:additions"/>was given, by Conference he made known to them the Will of God.</p>
+            <p>Again, Publick preaching is not all of a kind; for that may be, either by <hi>laying the Foundation, the Principles of the Doctrine of Chriſt,</hi> as the Apoſtle calls them, <hi>Heb.</hi> 6.1. which we call Catechiſing. If this be not Preaching, if <hi>laying the Foundation</hi> be not edifying, we ſhall make but a ſorry Building. If this Foundation of Faith be not well laid, every new wind of Doctrine that riſes blows it ſtraight down again.</p>
+            <p>In theſe ſeveral ways, beſides the Sermon, is God's Word effectual. Now if we put all theſe under the buſhel, and ſet up the Ser<g ref="char:EOLhyphen"/>mon only, we had need need take heed how how we hear that; for if that wherein all our hope and confidence lies ſhould go under the buſhel too, we are in a ſad caſe.</p>
+            <p>It will therefore neerly concern us to take heed, That God's Word be not loſt in the Sermon, <hi>i. e.</hi> that the power of it, which con<g ref="char:EOLhyphen"/>ſiſts in the evident conviction of truth, be not loſt in formalities and impertinences, commonly us'd in Sermons.</p>
+            <p>As when little regard is given by ſome to God's Word, unleſs the Sermon preſents it
+<pb n="31" facs="tcp:94738:16"/>ſelf dreſs'd up with all the curioſities of Art, Language, and Phanſie too; which ſometimes ſo diſguiſes it, as it can hardly be known from a Poem. But for the true uſe of Orna<g ref="char:EOLhyphen"/>ments of Art and Speech, if they make us love our duties the more, as they make us more in love with hearing, I ſhould think it well beſtow'd. But if painted Sermons be like painted Glaſs, that makes a Room beau<g ref="char:EOLhyphen"/>tiful, but intercepts too much the light, it may well go in the rank too of thoſe things which put God's Word under the buſhel.</p>
+            <p>The ſame is done too with a coarſer ſort of Forms, which have no title to be divine, but that they want humane Learning. And yet if God's Word be not in that jejune for<g ref="char:EOLhyphen"/>mal dreſs, it will not be ſo kindly received by thoſe who out of a ſeeming tenderneſs of the liberty of God's Word, are afraid that the Churches Form ſhould bind it, and ſpare not to fetter it in cold formalities of their own, in which it languiſheth to nothing.</p>
+            <p>Again, God's Word muſt needs be put under a buſhel, when it is put into the bu<g ref="char:EOLhyphen"/>ſhel; I mean, when it is heard by meaſure: I do not mean the meaſure of Faith here in the Text, the meaſure of the Sanctuary; but
+<pb n="32" facs="tcp:94738:17"/>the common Market-meaſure; as when we muſt have an Hour-glaſs full at leaſt, and ſomwhat running over, to make a juſt Ser<g ref="char:EOLhyphen"/>mon; though the particulars be as incohe<g ref="char:EOLhyphen"/>rent both with the Text and themſelves, as the ſand that meaſures them; yet if it runs on ſmoothly, and fills up the time, all is well.</p>
+            <p>There is as little good from Sermons when they are heard by tale; if we have not our full number, as well as our full meaſure, two at the leaſt a day, the poor people are ſtarv'd.</p>
+            <p>They would pity my ſimplicity, if I ſhould take upon me to confute it out of vain Phi<g ref="char:EOLhyphen"/>loſophy, and tell them out of it, That <hi>quan<g ref="char:EOLhyphen"/>titatis nulla eſt efficacia:</hi> I ſhall, with their good leaves, from S<hi rend="sup">t</hi> 
+               <hi>Paul,</hi>
+               <note place="margin">2 Tim. 3.1.</note> (out of the place I named before) to <hi>Timothy,</hi> ſhew them, That there is no efficacy in quantity: What a bed<g ref="char:EOLhyphen"/>roll of ſins doth he lay at their doors that heap to themſelves Teachers? There was a heap of ſins under a heap of Sermons. And no wonder; for being after their owne luſt, the more commonly the worſe.</p>
+            <p>There be many other things to be taken heed of in hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, which intercept and ob<g ref="char:EOLhyphen"/>ſtruct the light of God's Word: But becauſe the time wears away, I will add but one more.</p>
+            <p>
+               <pb n="33" facs="tcp:94738:17"/>That out of ignorance or ill will we do not miſconſtrue what we hear; as S<hi rend="sup">t</hi> 
+               <hi>Peter</hi> ob<g ref="char:EOLhyphen"/>ſerv'd ſome to do with S<hi rend="sup">t</hi> 
+               <hi>Paul</hi>'s Epiſtles, which they wreſted to their own deſtruction.</p>
+            <p>And this I rather add in my own defence, leſt that which is ſpoken in favour of hear<g ref="char:EOLhyphen"/>ing, ſhould be interpreted a diſcouragement to it; becauſe people generally are not ſo well affected as they ſhould be to ſo good a duty, who had more need of fire to heat them, than Water to cool them.</p>
+            <p>It had been to better purpoſe, you will ſay, if I had taken my Text out of S. <hi>James; Be ſwift to hear.</hi>
+            </p>
+            <p>But I beſeech you not to be miſtaken. That which hath been ſaid doth not take us off our ſpeed: We may be ſtill as ſwift to hear as our Zeal can carry us. It puts us on<g ref="char:EOLhyphen"/>ly in our right way, that we do not run in vain. It is only to take God's Word from under the buſhel, where it doth no good; that we may ſet it on the candleſtick, from whence we may receive the light of it, and in that the benefit of our Saviour's advice, to <hi>take heed how we hear;</hi> which is the ſecond part of our care in the affirmative, by ſetting Gods Word on the candleſtick.</p>
+            <p>
+               <pb n="34" facs="tcp:94738:18"/>To ſet God's Word on the Candleſtick, is to ſet it where we may receive the light of it; and that is, firſt,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> By a particular uſe and application of it to our ſelves that hear; for though Preachers have commonly theſe words in their Sermons, Uſes, and Application, and they know beſt why they uſe them, I do not; for ſure I am, they are more proper to the Hearers. The Preacher gives the Doctrine, but the Hearers muſt make the Uſe and Application. No Preacher can ſay, as <hi>Nathan</hi> to <hi>David, Thou art the Man;</hi> unleſs he have a ſpecial Com<g ref="char:EOLhyphen"/>miſſion, as he had from God. No Preacher hath acceſs to our Conſciences; at that Bar every man muſt be his own Judg and Wit<g ref="char:EOLhyphen"/>neſs, and as there ſhall be cauſe, pro<g ref="char:EOLhyphen"/>nounce Sentence againſt himſelf, <hi>Thou art the Man.</hi>
+            </p>
+            <p>If we ſit at the Sermon as men unconcern'd for any thing but the hearing of it, to us it is all one as if it had been ſtill under the Buſhel, and not upon the Candleſtick.</p>
+            <p>If we hear, and make no uſe of it, we leave out the beſt part of the Sermon; for the Hear<g ref="char:EOLhyphen"/>ers make bad Sermons, as well as Preachers.</p>
+            <p>But when a fault or error is reprehended,
+<pb n="35" facs="tcp:94738:18"/>muſt every Hearer pronounce himſelf guilty! Certainly No; for that were injuſtice to condemn the innocent. Though the Sermon condemns not every man that hears it, yet it puts every man upon his trial, to let the light into his own boſom, to ſee whether he be guilty or not. If guilty, let him do as guilty men do, ſue for mercy, and pardon, and amendment: If not guilty, let him enjoy the comfort of that, <hi>If our heart condemns us not, then have we confidence towards God,</hi> 1 Joh. 3.21. And <hi>happy is he that condemneth not himſelf,</hi> Rom. 14.22. Guilty, or not guilty, we have benefit by the light that actually ſhines upon us; for ſo it doth in the Candleſtick.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> A light in a Candleſtick inlightens every one alike that comes into the room. If a light be brought to us which none can ſee but he that brings it, it may very well be ſuſpected to be none of God's Lights, be<g ref="char:EOLhyphen"/>cauſe it will not ſtand in a Candleſtick, ſo as to be ſeen by others. And many ſuch there be, who muſt be allowed to hold ſpecial in<g ref="char:EOLhyphen"/>telligence with God, and by private illumi<g ref="char:EOLhyphen"/>nation from the Spirit, ſee clearer and farther into the darkeſt Myſteries than any of the Doctors or Rabbies.</p>
+            <p>
+               <pb n="36" facs="tcp:94738:19" rendition="simple:additions"/>They put me in minde of ſome, though not the beſt ſort of Creatures, yet in the dark ſee better then others; as the Owle, the Cat, and the Bat: of which I have known Philoſophers give this reaſon: That rayes of light do naturally ſtream from their eyes, by which the <hi>Medium</hi> and Aire about is enlight<g ref="char:EOLhyphen"/>ned; This at beſt, if there be any ſuch, is a light which none ſees but them. Now if thoſe il<g ref="char:EOLhyphen"/>luminated ſeers be ſuch that their light is not where Gods Word ſhould be in a Candleſtick, where it may be ſeen of all, it is indeed no better then Owles light that ſhines onely out of their own eyes.<milestone type="tcpmilestone" unit="unspecified" n="III"/>
+            </p>
+            <p>A light in a Candleſtick doth not only en<g ref="char:EOLhyphen"/>lighten all the perſons, but all the parts alſo of the room, every corner, the darkeſt and moſt ſecret places: it ſhines not only upon our cloathes and faces,<note place="margin">Pſal. 51.6.</note> 
+               <hi>(i. e.)</hi> our outward faſhi<g ref="char:EOLhyphen"/>on and demeanor, but as God requireth truth in the inward parts, thither muſt the light go too, to the moſt retired Cloſets and Cabinets within, to the very thoughts and in<g ref="char:EOLhyphen"/>rentions of the heart.<note place="margin">Heb. 4.12.</note> It is ſharper then any two-edged Sword that enters between the joint and themarrow. Light will pierce through
+<pb n="37" facs="tcp:94738:19"/>where no Sword can go, at the leaſt hole and creviſe. If all our actions of greateſt ſecre<g ref="char:EOLhyphen"/>cy receive not light and direction from Gods Word, we do not ſet it in a Candleſtick, for there nothing is hid from the light there<g ref="char:EOLhyphen"/>of.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> A Candle in a Candleſtick, as it gives light to every part of the room, ſo it doth to all the work and buſineſs in it. It ſhews not on<g ref="char:EOLhyphen"/>ly the end of all eternal reſt and happineſs, but is a light unto the paths that lead to it. It holds us not onely upon the gaze of the glory and joyes of heaven, but carries us through the darker myſteries of faith, and the more unpleaſing wayes of Re<g ref="char:EOLhyphen"/>pentance and Mortification. The Goſpel is not the power of God to ſalvation, unleſs it be alſo the power of God upon all the ſteps and degrees to it. In a Candleſtick it is a light all over, from one ſide of the room to the other.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> Laſtly, From Gods Word in a Candle<g ref="char:EOLhyphen"/>ſtick, we do <hi>Totam lucem recipere,</hi> take the be<g ref="char:EOLhyphen"/>nefit of the whole light in all the effects and operations of it. It is a word of inſtruction, a word of exhortation, a word of comfort, a word of reproof, a word of promiſe, and a
+<pb n="38" facs="tcp:94738:20"/>word of command, and ſo ſerves us in all our neceſſities. It inſtructs the ignorant, corrects the obſtinate, comforts the dejected, dejects the proud, quiets the paſſions, invites by pro<g ref="char:EOLhyphen"/>miſes, binds by commands.</p>
+            <p>If we pick and chuſe, lay hold on the word of conſolation, not of correction; of promiſes, not of commands. We take the light as men do out of a dark Lanthorn, from one ſide onely, no more then looks towards our private ends and intereſt. But in a Candleſtick the light dilates it ſelf imparti<g ref="char:EOLhyphen"/>ally in all the ſeveral powers of it; there is no parcelling or dividing in that, all or none; we muſt <hi>totam lucem recipere.</hi>
+            </p>
+            <p>So much difference we ſee there is between Gods Word in a Candleſtick, and under a Bu<g ref="char:EOLhyphen"/>ſhel; and how much benefit comes by the one, and how little by the other. If we take not heed to this, we fall into the common, but dan<g ref="char:EOLhyphen"/>gerrous error, That when we have heard the Sermon, we have done our duty for that time, though we neither heed what or how we hear. And yet according to that onely, Ser<g ref="char:EOLhyphen"/>mons are, as S. <hi>Paul</hi> ſpeaks of them in the per<g ref="char:EOLhyphen"/>ſon of the Preacher, a ſavour of life, or a ſavour of death. As the evil ſervant was
+<pb n="39" facs="tcp:94738:20"/>judg'd out of his own mouth, ſo ſhall the careleſs hearer out of his own ears. And more I could not ſay, if I had more time. It is that whereon life or death depends; therefore <hi>Take heed what you hear.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:94738:21"/>
+            <head>ERRATA.</head>
+            <p>PAg. 6. lin. 7. for <hi>difference</hi> r. <hi>difficulty.</hi> p. 9. l. 13. make the <hi>Gomma</hi> at <hi>after.</hi> l. 21. for <hi>power</hi> r. <hi>proper.</hi> p. 14. l 15. r. quis <hi>cuſtodiet.</hi> p. 17. l. ulc. for <hi>ſhall</hi> r. <hi>ſhould.</hi> p. 21. l. penult. for <hi>hereunto</hi> r. <hi>whereunto.</hi> p. 19. l. 1. in marg. inſert III. l. 18. for <hi>on</hi> r. in p. 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. l. 3. in marg. inſert V. l. 16. dele <hi>need.</hi> l. 17. dele <hi>how.</hi> p. 36. l. 9. for <hi>them</hi> r. <hi>themſelves.</hi>
+            </p>
+            <pb facs="tcp:94738:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
